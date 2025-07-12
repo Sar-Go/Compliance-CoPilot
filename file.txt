@@ -1,0 +1,20 @@
+Section: SEBI Guidelines - Insider Trading
+
+As per SEBI (Prohibition of Insider Trading) Regulations, 2015:
+- Insiders are prohibited from trading in securities while in possession of unpublished price sensitive information (UPSI).
+- Companies must maintain a structured digital database of persons with whom UPSI is shared.
+- Disclosure of trades by promoters, employees, and directors must be made within 7 working days.
+
+Section: RBI Circular - KYC Norms
+
+The Reserve Bank of India mandates:
+- Customer identification must be done using Aadhaar or PAN.
+- Banks must conduct periodic KYC updates, with high-risk customers requiring annual reviews.
+- Suspicious transactions must be reported to the Financial Intelligence Unit (FIU-IND) promptly.
+
+Section: FEMA - Capital Account Transactions
+
+Under the Foreign Exchange Management Act (FEMA), 1999:
+- All capital account transactions require prior approval from RBI unless specifically exempted.
+- Investments by NRIs must comply with sectoral caps and reporting timelines.
+- Any contravention may attract penalties under Section 13 of FEMA.
